@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+catboost
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+joblib
