@@ -1,5 +1,7 @@
 # yandex_heart_risk_project
 
+Сервис на базе **FastAPI** и **CatBoost** для классификации пациентов по уровню риска.
+
 ## Как запустить проект
 1. Установите зависимости: `uv pip install -r requirements.txt`
 2. Запустите сервер: `uvicorn app.main:app`
