@@ -1,7 +1,7 @@
 # data & artifacts
 data/raw/
 data/processed/
-artifacts/
+
 
 # env
 .env
